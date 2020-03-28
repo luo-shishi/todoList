@@ -1,4 +1,4 @@
-# vue-test
+# todoList
 
 > A Vue.js project
 
